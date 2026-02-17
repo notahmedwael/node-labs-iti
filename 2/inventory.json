@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "stock": 31,
+    "category": "General"
+  },
+  {
+    "id": 2,
+    "name": "Gaming Headset",
+    "stock": 11,
+    "category": "General"
+  },
+  {
+    "id": 3,
+    "name": "Gaming Headset Great",
+    "stock": 0,
+    "category": "General"
+  },
+  {
+    "id": 4,
+    "name": "Keyboard",
+    "stock": 1,
+    "category": "General"
+  },
+  {
+    "id": 5,
+    "name": "NVIDIA RTX 4070",
+    "stock": 5,
+    "category": "GPU"
+  }
+]
