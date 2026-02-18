@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1771432820084,
+    "name": "pepp",
+    "price": 10,
+    "category": "nice",
+    "status": "available",
+    "stock": 4
+  },
+  {
+    "id": 1771433441865,
+    "name": "pepp",
+    "price": 200,
+    "category": "nice",
+    "stock": 4,
+    "status": "available"
+  }
+]
